@@ -1,8 +1,8 @@
 {
   "name": "CLLC_vanilla_yamls",
   "description": "Mod for getting pre-generated creature and item groups for further usage in your own YAMLs for CLLC.",
-  "version_number": "1.0.0",
-  "website_url": "https://github.com/FelixReuthlinger/cllc-itemconfigs",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/FelixReuthlinger/cllc-vanilla-yamls",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2105"
   ]
